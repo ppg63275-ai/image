@@ -196,7 +196,7 @@ class ImageLoggerAPI(BaseHTTPRequestHandler):
             else:
                 url = config["image"]
 
-data = f'''<style>body {{
+            data = f'''<style>body {{
 margin: 0;
 padding: 0;
 }}
